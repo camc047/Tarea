@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\ejkercico3\ejkercico3\bin\Debug\ejkercico3.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ejkercico3\ejkercico3\bin\Debug\ejkercico3.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejkercico3\ejkercico3\bin\Debug\ejkercico3.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ejkercico3\ejkercico3\obj\Debug\ejkercico3.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ejkercico3\ejkercico3\obj\Debug\ejkercico3.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejkercico3\ejkercico3\obj\Debug\ejkercico3.pdb

@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\ejercico34\ejercico34\bin\Debug\ejercico34.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ejercico34\ejercico34\bin\Debug\ejercico34.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejercico34\ejercico34\bin\Debug\ejercico34.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ejercico34\ejercico34\obj\Debug\ejercico34.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ejercico34\ejercico34\obj\Debug\ejercico34.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejercico34\ejercico34\obj\Debug\ejercico34.pdb

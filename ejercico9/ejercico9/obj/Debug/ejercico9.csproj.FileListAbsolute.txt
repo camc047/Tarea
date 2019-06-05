@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\ejercico9\ejercico9\bin\Debug\ejercico9.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ejercico9\ejercico9\bin\Debug\ejercico9.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejercico9\ejercico9\bin\Debug\ejercico9.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ejercico9\ejercico9\obj\Debug\ejercico9.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ejercico9\ejercico9\obj\Debug\ejercico9.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejercico9\ejercico9\obj\Debug\ejercico9.pdb

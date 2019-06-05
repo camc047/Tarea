@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\ejercicio52\ejercicio52\bin\Debug\ejercicio52.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ejercicio52\ejercicio52\bin\Debug\ejercicio52.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejercicio52\ejercicio52\bin\Debug\ejercicio52.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ejercicio52\ejercicio52\obj\Debug\ejercicio52.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ejercicio52\ejercicio52\obj\Debug\ejercicio52.exe
+c:\users\hp\documents\visual studio 2015\Projects\ejercicio52\ejercicio52\obj\Debug\ejercicio52.pdb

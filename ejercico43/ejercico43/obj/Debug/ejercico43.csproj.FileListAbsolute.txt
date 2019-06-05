@@ -1,0 +1,2 @@
+c:\users\hp\documents\visual studio 2015\Projects\ejercico43\ejercico43\bin\Debug\ejercico43.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ejercico43\ejercico43\obj\Debug\ejercico43.csprojResolveAssemblyReference.cache
